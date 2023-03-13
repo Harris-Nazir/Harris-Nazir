@@ -3,11 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harris-Nazir?tab=repositories](https://github.com/Harris-Nazir?tab=repositories)
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Q_G7d0DzM2VW2prej06Up9bHWZOoR5F4IMSBr8MBVtM/edit](https://docs.google.com/document/d/1Q_G7d0DzM2VW2prej06Up9bHWZOoR5F4IMSBr8MBVtM/edit)
+
 - 📫 How to reach me **Hrrsnzr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/harris-nazir-1b7b88240/](https://www.linkedin.com/in/harris-nazir-1b7b88240/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harris-nazir-1b7b88240/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harris-nazir-1b7b88240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harris-nazir-1b7b88240/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
