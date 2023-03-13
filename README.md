@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harris-Nazir?tab=repositories](https://github.com/Harris-Nazir?tab=repositories)
 
-- 📄 Know about my experiences [📄 Know about my experiences](📄 Know about my experiences)
+- 📄 Know about my experiences [[📄 Know about my experiences](📄 Know about my experiences)](https://docs.google.com/document/d/1Q_G7d0DzM2VW2prej06Up9bHWZOoR5F4IMSBr8MBVtM/edit)
 
 - 📫 How to reach me **Hrrsnzr@gmail.com**
 
